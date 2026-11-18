@@ -1,0 +1,3 @@
+# Concept demo by Group Delta, SFU BUS 401. Not the real CodingQuests site.
+User-agent: *
+Disallow: /
